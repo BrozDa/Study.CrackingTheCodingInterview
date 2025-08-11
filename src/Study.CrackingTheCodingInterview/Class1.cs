@@ -1,7 +1,6 @@
-﻿namespace Study.CrackingTheCodingInterview
-{
-    public class Class1
-    {
+﻿namespace Study.CrackingTheCodingInterview;
 
-    }
+public class Class1
+{
+
 }
