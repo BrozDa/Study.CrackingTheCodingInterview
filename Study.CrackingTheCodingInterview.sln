@@ -13,15 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.CrackingTheCodingInte
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "console", "console", "{52B858CB-FDF7-42A2-B70C-1A244CEFE7F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.CrackingTheCodingInterview.Console", "console\Study.CrackingTheCodingInterview.Console\Study.CrackingTheCodingInterview.Console.csproj", "{163B020A-2293-4BD3-A9F5-4A11474285B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study.CrackingTheCodingInterview.App", "..\console\Study.CrackingTheCodingInterview.App\Study.CrackingTheCodingInterview.App\Study.CrackingTheCodingInterview.App.csproj", "{4F25D082-E575-4E33-8CB1-F7AD24C9A18B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EB8BDC8A-BF77-4BA6-9E71-BD3E67FEFA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -32,14 +29,17 @@ Global
 		{F21EFD66-DBC9-40AB-90DA-3B95655B950C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F21EFD66-DBC9-40AB-90DA-3B95655B950C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F21EFD66-DBC9-40AB-90DA-3B95655B950C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{163B020A-2293-4BD3-A9F5-4A11474285B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{163B020A-2293-4BD3-A9F5-4A11474285B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{163B020A-2293-4BD3-A9F5-4A11474285B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{163B020A-2293-4BD3-A9F5-4A11474285B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F25D082-E575-4E33-8CB1-F7AD24C9A18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F25D082-E575-4E33-8CB1-F7AD24C9A18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F25D082-E575-4E33-8CB1-F7AD24C9A18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F25D082-E575-4E33-8CB1-F7AD24C9A18B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EB8BDC8A-BF77-4BA6-9E71-BD3E67FEFA20} = {BE6EBA96-1651-42CE-915B-B7B20CDDD394}
 		{F21EFD66-DBC9-40AB-90DA-3B95655B950C} = {939A1B59-D29E-49BB-9498-80A87022405F}
-		{163B020A-2293-4BD3-A9F5-4A11474285B3} = {52B858CB-FDF7-42A2-B70C-1A244CEFE7F0}
+		{4F25D082-E575-4E33-8CB1-F7AD24C9A18B} = {52B858CB-FDF7-42A2-B70C-1A244CEFE7F0}
 	EndGlobalSection
 EndGlobal

@@ -29,7 +29,7 @@
             }
 
             // if input len is even - each character needs to be even
-            // if input len is odd - each but one chars have to be even, one can be odd
+            // if input len is odd - each but one char have to be even, one have to be odd
             if (letterCount % 2 == 0)
             {
                 foreach(var key in charMap.Keys)
